@@ -1,0 +1,40 @@
+*
+{
+    margin: 0;
+}
+.contenedor
+{
+    background: #7290a1b9;
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+}
+p
+{
+    font-size: xx-large;
+    padding: 1%;
+    color: rgb(255, 255, 255);
+}
+button
+{
+    font-size: xx-large;
+    padding: 0.75em;
+}
+#si
+{
+    transform: translate(-100%,0);
+    width: auto;
+    border-radius: 8px;
+    background: #00ff95;
+    color: rgb(0, 0, 0);
+    border: 2px solid cyan;
+}
+#no
+{
+    position: absolute;
+    width: auto;
+    border-radius: 8px;
+    background: #00ff95;
+    color: rgb(0, 0, 0);
+    border: 2px solid cyan;
+}
